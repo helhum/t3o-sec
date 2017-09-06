@@ -1,0 +1,11 @@
+{
+    "name": "t3o/sec",
+    "description": "Reserve vendor name on Packagist",
+    "authors": [
+        {
+            "name": "Helmut Hummel",
+            "email": "info@helhum.io"
+        }
+    ],
+    "require": {}
+}
